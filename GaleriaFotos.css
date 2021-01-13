@@ -34,7 +34,11 @@
     grid-column: span 2 / auto;
   }
 
-  .fotos-G {
+  .fotos-A {
+    grid-column: span 3 / auto;
+  }
+
+  .fotos-L {
     grid-column: span 3 / auto;
   }
 
