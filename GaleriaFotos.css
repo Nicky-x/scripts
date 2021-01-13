@@ -25,7 +25,7 @@
   cursor: pointer;
  }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 300px) {
   .fotos-V {
     grid-row: span 2 / auto;
   }
